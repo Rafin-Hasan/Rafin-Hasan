@@ -19,7 +19,7 @@ Crafting delightful user experiences, pixel by pixel ✨. Powered by React and c
 <a href="https://instagram.com/rafinhasan.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafinhasan.web" height="30" width="40" /></a>
 </p>
 
-<a href='https://docs.github.com/en/developers'align="center"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rafin-Hasan)](https://github.com/ryo-ma/github-profile-trophy)
 
