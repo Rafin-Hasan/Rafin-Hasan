@@ -14,7 +14,7 @@
 <div align="center">
  
  
-🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **JavaScript** <br>
 🎯 My goal is to become a professional web developer.
 💬 Ask me about **HTML, CSS, React... or anything [here](https://github.com/Rafin-Hasan)**
 
