@@ -89,12 +89,12 @@
 <div>
 </div>
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafin-Hasan&theme=midnight-purple" alt="Rafin-Hasan" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafin-Hasan&theme=midnight_purple" height="180em" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <a href="https://github.com/Rafin-Hasan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafin-Hasan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafin-Hasan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafin-Hasan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafin-Hasan&theme=2077" height="180em" />
