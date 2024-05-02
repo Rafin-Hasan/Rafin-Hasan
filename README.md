@@ -74,9 +74,9 @@
 
 <div align="center">
   <h2> My Contributions </h2>
-    <img aline="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br>
   <div align="center">
+  <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://github-profile-trophy.vercel.app?username=Rafin-hasan&theme=dracula&column=-1&row=1&margin-w=11&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafin-hasan&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
