@@ -1,4 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![I am a react developer.](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/438196427_122124297632252868_6034209741663439880_n.png?stp=dst-png_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGt2Z35II0uMAUqIepn-Bao37KY-4p60jPfspj7inrSMxlkjSclNZbCLe1GUxvA2_u554QE707vja7rm6NITRMH&_nc_ohc=CGKLhNKrCm8Ab6pFaB9&_nc_ht=scontent.fdac138-2.fna&oh=00_AfDL3hXJpIZxspYLH_6RIQNSWw-tLhx24f2hzUKPkbttNw&oe=66364BC6)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafin+Hasan!;" />
 </h1>
@@ -10,8 +12,8 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **JavaScript**
-
+🌱 I’m currently learning **JavaScript**
+🎯 My goal is to become a professional web developer.
 💬 Ask me about **HTML, CSS, React... or anything [here](https://github.com/Rafin-Hasan)**
 
 
@@ -41,6 +43,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -82,8 +85,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafin-Hasan&theme=midnight-purple" alt="Rafin-Hasan" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <a href="https://github.com/Rafin-Hasan">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafin-Hasan&theme=2077" height="180em" />
