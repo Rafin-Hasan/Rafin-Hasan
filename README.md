@@ -89,7 +89,8 @@
 </div>
 
 <hr/>
-
+<br>
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div>
 </div>
