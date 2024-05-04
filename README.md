@@ -80,6 +80,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=Rafin-hasan&theme=dracula&column=-1&row=1&margin-w=11&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafin-hasan&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin-Hasan&layout=compact&theme=midnight-purple" alt=Rafin-Hasan />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafin-Hasan&show_icons=true&locale=en&theme=midnight-purple" alt="Rafin-Hasan" /></p>
+
   <br/><br/><br/>
 </div>
 
