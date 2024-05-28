@@ -2,7 +2,6 @@
 
 ![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/441920728_122132517722252868_962060602298992394_n.png?stp=dst-png_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGruO1PBW0yoRqsVBGYPnQl8RfbxbK68frxF9vFsrrx-oWOItR1L8NFGb1Ux0zidULvacUIWx6sk1IGKLXnxD0S&_nc_ohc=uUroiWYgk4sQ7kNvgHEsltx&_nc_ht=scontent.fdac138-1.fna&oh=00_AYAjKJwn5cIe5oS6kX514Aof4xYAIPHvMmSW1Z5KWALLzw&oe=665BF1C8)
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafin+Hasan!;" />
