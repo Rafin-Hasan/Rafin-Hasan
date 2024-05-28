@@ -11,7 +11,6 @@
 <h3 align="center"></h3>
 
 <br/>
-
 <div align="center">
  
 🌱 I’m currently learning **JavaScript** <br>
