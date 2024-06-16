@@ -1,6 +1,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/441920728_122132517722252868_962060602298992394_n.png?stp=dst-png_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGruO1PBW0yoRqsVBGYPnQl8RfbxbK68frxF9vFsrrx-oWOItR1L8NFGb1Ux0zidULvacUIWx6sk1IGKLXnxD0S&_nc_ohc=e_jZGz2x66IQ7kNvgHZHKa3&_nc_ht=scontent.fdac138-1.fna&oh=00_AYDJ9tNmlrWocCB-e7NfNVuwU5ISQPC9iIJmcHLO9xs1nQ&oe=666E66C8)">
+<div align="center">
+  <img height="220" src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/441920728_122132517722252868_962060602298992394_n.png?stp=dst-png_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGruO1PBW0yoRqsVBGYPnQl8RfbxbK68frxF9vFsrrx-oWOItR1L8NFGb1Ux0zidULvacUIWx6sk1IGKLXnxD0S&_nc_ohc=A7ZXsbCtZycQ7kNvgHQiddZ&_nc_ht=scontent.fdac138-1.fna&oh=00_AYD8L9Qbtt-T4JL3G7Z6kg7v4cJPEjobDeZ-CBHLMPSA4w&oe=6674FE48"  />
+</div>
+
+###
+
+
+
+###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
@@ -44,8 +52,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -61,11 +69,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
-
 <br/>
 <hr/>
 
