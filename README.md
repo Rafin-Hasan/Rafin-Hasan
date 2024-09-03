@@ -105,7 +105,6 @@
 <br>
 <div>
 </div>
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafin-Hasan&theme=midnight-purple" alt="Rafin-Hasan" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafin-Hasan&theme=midnight_purple" height="180em" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
