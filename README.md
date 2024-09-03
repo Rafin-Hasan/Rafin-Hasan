@@ -98,7 +98,10 @@
 <br>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafin-Hasan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 <br>
 <div>
 </div>
