@@ -1,132 +1,93 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- 
+<!-- Start of README -->
 <div align="center">
-  <img height="245" src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/441920728_122132517722252868_962060602298992394_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGruO1PBW0yoRqsVBGYPnQl8RfbxbK68frxF9vFsrrx-oWOItR1L8NFGb1Ux0zidULvacUIWx6sk1IGKLXnxD0S&_nc_ohc=hWj7XNRLdxIQ7kNvgGUWWmT&_nc_ht=scontent.fdac99-1.fna&oh=00_AYBlK1bbVHEU8JHzaTdbWM3Ll_vSWVtbH_vATyEFVr_QPw&oe=66DCB448"  />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fancy Divider" />
+
+  <img height="245" src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/441920728_122132517722252868_962060602298992394_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGruO1PBW0yoRqsVBGYPnQl8RfbxbK68frxF9vFsrrx-oWOItR1L8NFGb1Ux0zidULvacUIWx6sk1IGKLXnxD0S&_nc_ohc=hWj7XNRLdxIQ7kNvgGUWWmT&_nc_ht=scontent.fdac99-1.fna&oh=00_AYBlK1bbVHEU8JHzaTdbWM3Ll_vSWVtbH_vATyEFVr_QPw&oe=66DCB448" alt="Banner Image" />
+
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafin+Hasan!" alt="Hi There!" />
+  </h1>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fancy Divider" />
 </div>
 
-### 
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafin+Hasan!;" />
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</h1>
-
-<h3 align="center"></h3>
-
-<br/>
 <div align="center">
- 
-👨‍🏫 I’m currently learning **React Js** <br>
-🎯 My goal is to become a professional web developer. <br>
-💬 Ask me about **HTML, CSS, React... or anything [here](https://github.com/Rafin-Hasan)**
+  <p>👨‍🏫 I’m currently learning <strong>React Js</strong></p>
+  <p>🎯 My goal is to become a professional web developer.</p>
+  <p>💬 Ask me about <strong>HTML, CSS, React...</strong> or anything <a href="https://github.com/Rafin-Hasan" target="_blank">here</a></p>
+</div>
 
- </div>
- 
-<div align="center"> 
-    <a href="www.linkedin.com/in/rafin-hasan-340723301" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="www.linkedin.com/in/rafin-hasan-340723301" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/rafinhasan.web/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
-  <a href="rafinhasan.web@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:rafinhasan.web@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61557586061839" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
-  <a href="+8801778566730" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.me/+8801778566730" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
   </a>
-  <a href="+8801778566730" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://t.me/+8801778566730" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
   </a>
 </div>
- <hr/>
- 
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
-<br/>
-<hr/>
 
 <div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <div align="center">
-  <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://github-profile-trophy.vercel.app?username=Rafin-hasan&theme=dracula&column=-1&row=1&margin-w=11&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafin-hasan&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-    <br>
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin-Hasan&layout=compact&theme=midnight-purple" alt=Rafin-Hasan />
-<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafin-Hasan&show_icons=true&locale=en&theme=midnight-purple" alt="Rafin-Hasan" /></p>
-  <br/><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="Redux" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
 </div>
 
 <hr/>
-<br>
-<br>
-<br>
-<br>
+
+<div align="center">
+  <h2>🏆 My Contributions 🏆</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fancy Divider" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafin-hasan&theme=dracula&column=-1&row=1&margin-w=11&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafin-hasan&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin-Hasan&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafin-Hasan&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rafin-Hasan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rafin-Hasan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
 </div>
 
-<br>
-<div>
-</div>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafin-Hasan&theme=midnight_purple" height="180em" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Statistics</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-<a href="https://github.com/Rafin-Hasan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafin-Hasan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafin-Hasan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafin-Hasan&theme=2077" height="180em" />
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafin-Hasan&theme=midnight_purple" height="180em" alt="Summary Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafin-Hasan&theme=2077" height="180em" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafin-Hasan&theme=2077" height="180em" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafin-Hasan&theme=2077" height="180em" alt="Productive Time" />
 </div>
-
-<br/><br/>
 
 <hr/>
 
-<br/>
-
-
-
-<br/>
-
+<!-- End of README -->
