@@ -77,14 +77,6 @@
 
 <h2 align="center" style="margin-bottom: 30px;">⚡ GitHub Stats ⚡</h2>
 
-<div align="center" style="margin-bottom: 50px;">
-  <img src="https://streak-stats.demolab.com?user=Rafin-Hasan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" style="margin-bottom: 30px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafin-Hasan&theme=midnight_purple" height="180em" alt="Summary Stats" style="margin-bottom: 30px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafin-Hasan&theme=2077" height="180em" alt="Most Commit Language" style="margin-bottom: 30px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafin-Hasan&theme=2077" height="180em" alt="Repos Per Language" style="margin-bottom: 30px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafin-Hasan&theme=2077" height="180em" alt="Productive Time" />
-</div>
 
-<hr style="margin: 50px 0;" />
 
 <!-- End of README -->
