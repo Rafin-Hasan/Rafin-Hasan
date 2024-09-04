@@ -68,13 +68,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafin-hasan&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="Activity Graph" />
 </div>
 
-<div align="center" style="margin-bottom: 50px;">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin-Hasan&layout=compact&theme=midnight-purple" alt="Top Languages" style="margin-bottom: 20px;" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafin-Hasan&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" style="margin-bottom: 20px;" />
-</div>
-
-<hr style="margin: 50px 0;" />
-
 <h2 align="center" style="margin-bottom: 30px;">⚡ GitHub Stats ⚡</h2>
 
 
