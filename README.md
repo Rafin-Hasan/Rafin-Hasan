@@ -10,7 +10,7 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fancy Divider" style="margin-bottom: 40px;" />
 </div>
-
+ 
 <div align="center" style="margin-bottom: 40px;">
   <p>👨‍🏫 I’m currently learning <strong>React Js</strong></p>
   <p>🎯 My goal is to become a professional web developer.</p>
