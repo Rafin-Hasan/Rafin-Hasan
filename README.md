@@ -35,8 +35,6 @@
   </a>
 </div>
 
-<hr />
-
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 
 <div align="center">
@@ -55,8 +53,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
 </div>
-
-<hr />
 
 <div align="center">
   <h2>🏆 My Contributions 🏆</h2>
