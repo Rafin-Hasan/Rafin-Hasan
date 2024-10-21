@@ -57,14 +57,14 @@
 <div align="center">
   <h2>🏆 My Contributions 🏆</h2>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fancy Divider" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafin-Hasan&theme=dracula&column=-1&row=1&margin-w=11&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafin-Hasan&theme=dracula&column=-1&row=1&margin-w=11&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="Trophy" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafin-Hasan&radius=16&theme=react&area=true&hide_border=true" height="300" alt="Activity Graph" />
 </div>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rafin-Hasan&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafin-Hasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="Languages Graph" />
+  <img src="https://streak-stats.demolab.com?user=Rafin-Hasan&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="150" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafin-Hasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true" height="150" alt="Languages Graph" />
 </div>
 <!-- End of README -->
