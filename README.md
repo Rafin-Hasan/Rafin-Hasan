@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p>👨‍🏫 I’m currently learning <strong>Firebase and Python</strong>.</p>
+  <p>🧑‍🎓 I’m currently learning <strong>Firebase and Python</strong>.</p>
   <p>🎯 My goal is to become a professional web developer.</p>
   <p>💬 Ask me about <strong>HTML, CSS, React...</strong> or anything <a href="https://github.com/Rafin-Hasan" target="_blank">here</a>.</p>
 </div>
