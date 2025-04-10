@@ -49,7 +49,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="Redux" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
 </div>
