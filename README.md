@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
   </a>
 </div>
-
+ 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 
 <div align="center">
