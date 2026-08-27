@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Rafin Hasan — Frontend Developer" width="100%" />
+<img src="/banner.svg" alt="Rafin Hasan — Frontend Developer" width="100%" />
 
 </div>
 
