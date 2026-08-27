@@ -5,6 +5,177 @@
  
   <h1 align="center">  
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafin+Hasan!" alt="Hi There!" />  
+ <!-- new -->
+   <div align="center">
+
+<img src="assets/banner.svg" alt="Rafin Hasan — Frontend Developer" width="100%" />
+
+</div>
+
+<details>
+<summary><sub>plain-text version of the card above</sub></summary>
+
+```
+╭──────────────────────────────────────────────────────────────╮
+│  rafinhasan.web@gmail.com — % ./profile.sh --live            │
+├──────────────────────────────────────────────────────────────┤
+│  SYSTEM.INFO                                        • LIVE   │
+│                                                              │
+│ Subject ........................................ Rafin Hasan │
+│ Role .................................... Frontend Developer │
+│ Focus ................................ Web Interfaces & Apps │
+│ Status ...................... Building + Learning + Shipping │
+│ ToolChain .............................. VS Code, Git, Figma │
+│                                                              │
+│ Core.Lang ............................ HTML, CSS, JavaScript │
+│ Core.Frontend ..................................... React.js │
+│ Core.Styling ........................... CSS3, Flexbox, Grid │
+│ Core.Database ..................................... Firebase │
+│ Core.Infra ............................. Git, GitHub, Vercel │
+│                                                              │
+│  — Contact                                                   │
+│ Grid.Mail ......................... rafinhasan.web@gmail.com │
+│ Grid.Portfolio ................................. coming soon │
+│ Grid.GitHub ................................... @your-handle │
+│ Grid.LinkedIn ............................... in/your-handle │
+│                                                              │
+│  ▸ More about me & projects below in README ↓                │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</details>
+
+<div align="center">
+
+[![Mail](https://img.shields.io/badge/Mail-05050f?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:rafinhasan.web@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-05050f?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05050f?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-05050f?style=for-the-badge&logo=vercel&logoColor=22d3ee)](#)
+
+</div>
+
+---
+
+## `./whoami`
+
+```console
+$ cat about.md
+```
+
+I'm **Rafin Hasan**, a frontend developer who builds for the browser — semantic
+HTML, hand-written CSS, and React for anything that needs to hold state. I care
+about interfaces that stay fast on a mid-range phone and readable six months
+after I wrote them. Firebase handles my data layer so I can spend the time on
+the part users actually touch.
+
+- 🔭 Currently building **your current project**
+- 🌱 Learning **TypeScript and Next.js**
+- 🎯 Focused on **accessible, responsive UI**
+- 💬 Ask me about **React, CSS layout, Firebase**
+- 📫 Reach me at **rafinhasan.web@gmail.com**
+
+---
+
+## `STACK.MATRIX`
+
+```console
+$ ./stack.sh --list
+```
+
+**Core**
+
+![HTML5](https://img.shields.io/badge/HTML5-05050f?style=for-the-badge&logo=html5&logoColor=22d3ee)
+![CSS3](https://img.shields.io/badge/CSS3-05050f?style=for-the-badge&logo=css3&logoColor=22d3ee)
+![JavaScript](https://img.shields.io/badge/JavaScript-05050f?style=for-the-badge&logo=javascript&logoColor=22d3ee)
+![React](https://img.shields.io/badge/React-05050f?style=for-the-badge&logo=react&logoColor=22d3ee)
+
+**Data & Services**
+
+![Firebase](https://img.shields.io/badge/Firebase-05050f?style=for-the-badge&logo=firebase&logoColor=a78bfa)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-05050f?style=for-the-badge&logo=git&logoColor=a78bfa)
+![GitHub](https://img.shields.io/badge/GitHub-05050f?style=for-the-badge&logo=github&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS_Code-05050f?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
+![Figma](https://img.shields.io/badge/Figma-05050f?style=for-the-badge&logo=figma&logoColor=a78bfa)
+![Vercel](https://img.shields.io/badge/Vercel-05050f?style=for-the-badge&logo=vercel&logoColor=a78bfa)
+
+| Layer      | What I reach for                       |
+| ---------- | -------------------------------------- |
+| Markup     | HTML5, semantic structure, a11y basics |
+| Styling    | CSS3, Flexbox, Grid, responsive design |
+| Scripting  | JavaScript (ES6+), DOM APIs            |
+| Framework  | React.js — hooks, component state      |
+| Data       | Firebase (Auth, Firestore, Hosting)    |
+| Workflow   | Git, GitHub, VS Code, Figma            |
+
+---
+
+## `PROJECTS.INDEX`
+
+```console
+$ ls -la ./projects
+```
+
+| Project | What it does | Stack | Links |
+| ------- | ------------ | ----- | ----- |
+| **Project One** | One line on the problem it solves. | React · Firebase | [Repo](#) · [Live](#) |
+| **Project Two** | One line on the problem it solves. | HTML · CSS · JS | [Repo](#) · [Live](#) |
+| **Project Three** | One line on the problem it solves. | React · CSS Grid | [Repo](#) |
+
+---
+
+## `LEARNING.QUEUE`
+
+```console
+$ cat roadmap.txt
+```
+
+- [x] HTML, CSS, JavaScript fundamentals
+- [x] React components, hooks, and state
+- [x] Firebase Auth and Firestore
+- [ ] TypeScript
+- [ ] Next.js and server-side rendering
+- [ ] Testing with Vitest / React Testing Library
+
+---
+
+## `STATS.STREAM`
+
+```console
+$ ./stats.sh --live
+```
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&hide_border=true&bg_color=05050f&title_color=22d3ee&text_color=c7d2fe&icon_color=a78bfa" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&hide_border=true&bg_color=05050f&title_color=22d3ee&text_color=c7d2fe" alt="Top languages" />
+
+</div>
+
+---
+
+## `CONTACT.GRID`
+
+```console
+$ ./contact.sh --open
+```
+
+| Channel   | Address                                              |
+| --------- | ---------------------------------------------------- |
+| Mail      | [rafinhasan.web@gmail.com](mailto:rafinhasan.web@gmail.com) |
+| GitHub    | [@your-handle](https://github.com/your-handle)       |
+| LinkedIn  | [in/your-handle](https://linkedin.com/in/your-handle) |
+| Portfolio | coming soon                                          |
+
+---
+
+<div align="center">
+<sub><code>$ exit 0</code> — thanks for stopping by.</sub>
+</div>
+
+   <!-- new card end -->
   </h1>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fancy Divider" />
 </div>   
