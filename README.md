@@ -21,38 +21,53 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-05050f?style=for-the-badge&logo=html5&logoColor=22d3ee)
-![CSS3](https://img.shields.io/badge/CSS3-05050f?style=for-the-badge&logo=css3&logoColor=22d3ee)
-![JavaScript](https://img.shields.io/badge/JavaScript-05050f?style=for-the-badge&logo=javascript&logoColor=22d3ee)
-![Python](https://img.shields.io/badge/Python-05050f?style=for-the-badge&logo=python&logoColor=22d3ee)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
 
 </div>
 
-## Libraries & Frameworks
+## Frameworks & Libraries
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-05050f?style=for-the-badge&logo=react&logoColor=a78bfa)
-![Redux](https://img.shields.io/badge/Redux-05050f?style=for-the-badge&logo=redux&logoColor=a78bfa)
-![jQuery](https://img.shields.io/badge/jQuery-05050f?style=for-the-badge&logo=jquery&logoColor=a78bfa)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05050f?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05050f?style=for-the-badge&logo=bootstrap&logoColor=a78bfa)
-![Node.js](https://img.shields.io/badge/Node.js-05050f?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa)
-![Firebase](https://img.shields.io/badge/Firebase-05050f?style=for-the-badge&logo=firebase&logoColor=a78bfa)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 
 </div>
 
-## Tools
+## Backend, Database & Cloud
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS_Code-05050f?style=for-the-badge&logo=visualstudiocode&logoColor=22d3ee)
-![Git](https://img.shields.io/badge/Git-05050f?style=for-the-badge&logo=git&logoColor=22d3ee)
-![GitHub](https://img.shields.io/badge/GitHub-05050f?style=for-the-badge&logo=github&logoColor=22d3ee)
-![Figma](https://img.shields.io/badge/Figma-05050f?style=for-the-badge&logo=figma&logoColor=22d3ee)
-![Canva](https://img.shields.io/badge/Canva-05050f?style=for-the-badge&logo=canva&logoColor=22d3ee)
-![Illustrator](https://img.shields.io/badge/Illustrator-05050f?style=for-the-badge&logo=adobeillustrator&logoColor=22d3ee)
-![Vercel](https://img.shields.io/badge/Vercel-05050f?style=for-the-badge&logo=vercel&logoColor=22d3ee)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7)
+
+</div>
+
+## Design & Tools
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 </div>
 
@@ -60,10 +75,10 @@
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude-05050f?style=for-the-badge&logo=claude&logoColor=a78bfa)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-05050f?style=for-the-badge&logo=openai&logoColor=a78bfa)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-05050f?style=for-the-badge&logo=githubcopilot&logoColor=a78bfa)
-![Gemini](https://img.shields.io/badge/Gemini-05050f?style=for-the-badge&logo=googlegemini&logoColor=a78bfa)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=plastic&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%23412991.svg?style=plastic&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23121011.svg?style=plastic&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=plastic&logo=googlegemini&logoColor=white)
 
 </div>
 
@@ -73,9 +88,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rafin-Hasan&hide_border=true&background=05050f&border=132038&stroke=132038&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="180" alt="Longest streak" />
+![](https://github-readme-stats.shion.dev/api?username=Rafin-Hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rafin-Hasan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rafin-Hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rafin-Hasan&show_icons=true&hide_border=true&bg_color=05050f&title_color=22d3ee&text_color=c7d2fe&icon_color=a78bfa" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin-Hasan&layout=compact&langs_count=6&hide_border=true&bg_color=05050f&title_color=22d3ee&text_color=c7d2fe" height="180" alt="Most used languages" />
+[![](https://komarev.com/ghpvc/?username=Rafin-Hasan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
