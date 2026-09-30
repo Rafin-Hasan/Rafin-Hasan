@@ -4,8 +4,8 @@
 
 </div>
 
+## Social
 <div align="center">
-  ## Social 
   
   <a href="mailto:rafinhasan.web@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/rafin-hasan-340723301" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
@@ -65,10 +65,10 @@
 ## AI
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg" alt="claude" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="chatgpt" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/copilot/copilot.png" alt="github copilot" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="chatgpt" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="github copilot" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="gemini" width="40" height="40"/>
 </div>
 
 ---
