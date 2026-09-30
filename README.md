@@ -66,7 +66,7 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" alt="chatgpt" width="40" height="40"/>
+  <img src="[https://cdn.simpleicons.org/openai/412991](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.lilo.co.uk%2Fblog%2Fwhat-is-chatgpt-and-should-you-be-using-it%2F&ved=0CBcQjRxqFwoTCJCD2OuRl5cDFQAAAAAdAAAAABBO&opi=89978449)" alt="chatgpt" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="github copilot" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="gemini" width="40" height="40"/>
 </div>
