@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-
-[![Mail](https://img.shields.io/badge/Mail-05050f?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:rafinhasan.web@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05050f?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/rafin-hasan-340723301)
-[![Instagram](https://img.shields.io/badge/Instagram-05050f?style=for-the-badge&logo=instagram&logoColor=a78bfa)](https://www.instagram.com/rafinhasan.web/)
-[![Facebook](https://img.shields.io/badge/Facebook-05050f?style=for-the-badge&logo=facebook&logoColor=22d3ee)](https://www.facebook.com/profile.php?id=61557586061839)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-05050f?style=for-the-badge&logo=whatsapp&logoColor=a78bfa)](https://wa.me/8801778566730)
-[![Telegram](https://img.shields.io/badge/Telegram-05050f?style=for-the-badge&logo=telegram&logoColor=22d3ee)](https://t.me/+8801778566730)
-
+  ## Social 
+  
+  <a href="mailto:rafinhasan.web@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/rafin-hasan-340723301" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/rafinhasan.web/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61557586061839" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/></a>
+  <a href="https://wa.me/8801778566730" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/></a>
+  <a href="https://t.me/+8801778566730" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/></a>
 </div>
 
 ---
@@ -65,10 +65,10 @@
 ## AI
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg" alt="claude" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="chatgpt" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/githubcopilot/githubcopilot-icon.svg" alt="github copilot" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="gemini" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/copilot/copilot.png" alt="github copilot" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/>
 </div>
 
 ---
